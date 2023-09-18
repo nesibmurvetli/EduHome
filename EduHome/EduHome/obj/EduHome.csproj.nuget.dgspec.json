@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\EduHome\\EduHome\\EduHome.csproj": {}
+    "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\EduHome.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\EduHome\\EduHome\\EduHome.csproj": {
+    "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\EduHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\EduHome\\EduHome\\EduHome.csproj",
+        "projectUniqueName": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\EduHome.csproj",
         "projectName": "EduHome",
-        "projectPath": "C:\\Users\\User\\Desktop\\EduHome\\EduHome\\EduHome.csproj",
+        "projectPath": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\EduHome.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\EduHome\\EduHome\\obj\\",
+        "outputPath": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,26 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -9,29 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EduHome
 build_property.RootNamespace = EduHome
-build_property.ProjectDir = C:\Users\User\Desktop\EduHome\EduHome\
+build_property.ProjectDir = D:\Backend\git proyekt\EduHome\EduHome\EduHome\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\EduHome\EduHome
+build_property.MSBuildProjectDirectory = D:\Backend\git proyekt\EduHome\EduHome\EduHome
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/EduHome/EduHome/Views/Home/Index.cshtml]
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Blogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Contacts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Courses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/EduHome/EduHome/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/EduHome/EduHome/Views/_ViewImports.cshtml]
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Teachers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhY2hlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/EduHome/EduHome/Views/_ViewStart.cshtml]
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/EduHome/EduHome/Views/Shared/_Layout.cshtml]
+[D:/Backend/git proyekt/EduHome/EduHome/EduHome/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4bw06go320
