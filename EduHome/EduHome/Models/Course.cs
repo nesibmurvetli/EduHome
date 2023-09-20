@@ -1,7 +1,6 @@
 ﻿namespace EduHome.Models
 {
-    public class About
-
+    public class Course
     {
         public int Id { get; set; }
         public string? Title { get; set; }
