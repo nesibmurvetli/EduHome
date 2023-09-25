@@ -10,30 +10,25 @@ namespace EduHome.Controllers
 {
     public class HomeController : Controller
     {
+
         private readonly AppDbContext _db;
         public HomeController(AppDbContext db)
         {
             _db = db;
         }
-        public IActionResult Index()
-
+        public async Task<IActionResult> Index()
         {
-            List<Slider> sliders =_db.Sliders.ToList();
-            List<Blog> blogs =_db.Blogs.ToList();
-            List<Course> courses =_db.Courses.ToList();
-            About about = _db.Abouts.FirstOrDefault();
-
             HomeVM homeVM = new HomeVM
             {
-                Sliders = sliders,
-                Blogs = blogs,
-                Courses=courses,
-                About = about,
-          
+                Sliders = await _db.Sliders.ToListAsync(),
+                About = await _db.Abouts.FirstOrDefaultAsync(),
+                Courses = await _db.Courses.Take(3).ToListAsync(),
+                Blogs = await _db.Blogs.Take(3).ToListAsync(),
+               
+
             };
             return View(homeVM);
         }
 
     }
-
 }

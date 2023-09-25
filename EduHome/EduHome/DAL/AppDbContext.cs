@@ -14,5 +14,6 @@ namespace EduHome.DAL
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Course> Courses { get; set; }
         public DbSet<About> Abouts { get; set; }
+        public DbSet<Bio> Bios { get; set; }
     }
 }

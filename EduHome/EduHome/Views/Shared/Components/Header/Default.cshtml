@@ -1,0 +1,108 @@
+﻿  <!-- Header Area Start -->
+@model Bio
+
+<header class="top">
+    <div class="header-top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-8 col-xs-12">
+                    <div class="header-top-left">
+                        <p>Suallar üçün  @Model.Number</p>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-4 col-xs-12">
+                    <div class="header-top-right text-right">
+                        <ul>
+                            @if (!User.Identity.IsAuthenticated)@*User.Identity.IsAuthenticated bu login olunmaq deməkdi*@
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Account" asp-action="Login">Giriş</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Account" asp-action="Register">Qeydiyyat</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">@User.Identity.Name</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" asp-controller="Account" asp-action="Logout">Logout</a>
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-area two header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3 col-sm-3 col-xs-6">
+                    <div class="logo">
+                        @*buran; yoxla*@
+                        <a asp-controller="Home" asp-action="Index "><img src="~/img/logo/@Model.Logo" alt="eduhome" /></a>
+                    </div>
+                </div>
+                <div class="col-md-9 col-sm-9 col-xs-6">
+                    <div class="content-wrapper text-right">
+                        <!-- Main Menu Start -->
+                        <div class="main-menu">
+                            <nav>
+                                <ul>
+                                    <li>
+                                        <a asp-controller="Home" asp-action="Index">Home</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="About" asp-action="Index">about</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Courses" asp-action="Index">courses</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Events" asp-action="Index">events</a>
+                                    </li>
+                                    <li class="hidden-sm">
+                                        <a asp-controller="Teachers" asp-action="Index">teachers</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Blogs" asp-action="Index">blogs</a>
+                                    </li>
+                                    <li>
+                                        <a asp-controller="Contact" asp-action="Index">Contact</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <!--Search Form Start-->
+                        <div class="search-btn">
+                            <ul data-toggle="dropdown" class="header-search search-toggle">
+                                <li class="search-menu">
+                                    <i class="fa fa-search"></i>
+                                </li>
+                            </ul>
+                            <div class="search">
+                                <div class="search-form">
+                                    <form id="search-form" action="#">
+                                        <input type="search" placeholder="Search here..." name="search" />
+                                        <button type="submit">
+                                            <span><i class="fa fa-search"></i></span>
+                                        </button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End of Search Form-->
+                        <!-- Main Menu End -->
+                    </div>
+                </div>
+                <div class="col-xs-12">
+                    <div class="mobile-menu hidden-lg hidden-md hidden-sm"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Header Area End -->
