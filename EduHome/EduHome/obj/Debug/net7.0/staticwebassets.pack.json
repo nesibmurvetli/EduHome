@@ -5,6 +5,1426 @@
       "PackagePath": "staticwebassets\\EduHome.bundle.scp.css"
     },
     {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\index.html"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\chart.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\data-table.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\documentation.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\tabs.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\template.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\css\\soft-ui-dashboard.css",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\css\\soft-ui-dashboard.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\css\\soft-ui-dashboard.css.map",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\css\\soft-ui-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\css\\soft-ui-dashboard.min.css",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\css\\soft-ui-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\curved-images\\white-curved.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\curved-images\\white-curved.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\illustrations\\rocket-dark.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\illustrations\\rocket-dark.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\soft-ui-dashboard.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\soft-ui-dashboard.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\soft-ui-dashboard.js.map",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\soft-ui-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\js\\soft-ui-dashboard.min.js",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\js\\soft-ui-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\aadmin\\assets\\scss\\soft-ui-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
       "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
@@ -455,6 +1875,10 @@
     {
       "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\img\\testimonial\\testimonial.jpg",
       "PackagePath": "staticwebassets\\img\\testimonial\\testimonial.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\js\\MyBackend.js",
+      "PackagePath": "staticwebassets\\js\\MyBackend.js"
     },
     {
       "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\js\\ajax-mail.js",
