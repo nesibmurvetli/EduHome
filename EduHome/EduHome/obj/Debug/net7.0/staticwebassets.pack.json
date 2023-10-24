@@ -1801,6 +1801,10 @@
       "PackagePath": "staticwebassets\\img\\post\\post3.jpg"
     },
     {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\img\\slider\\8dd50a6c-e3c5-42fe-b6f1-3d15f2a0ce0dblog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\slider\\8dd50a6c-e3c5-42fe-b6f1-3d15f2a0ce0dblog-feature-img-1.jpg"
+    },
+    {
       "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\img\\slider\\home.png",
       "PackagePath": "staticwebassets\\img\\slider\\home.png"
     },

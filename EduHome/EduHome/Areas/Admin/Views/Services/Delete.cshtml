@@ -1,0 +1,18 @@
+﻿@model Service
+<div class="row">
+    <div class="col-md-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Are you sure to delete this @Model.Title service?</h4>
+                <form class="forms-sample" method="post">
+
+                    <button type="submit" class="btn btn-danger mr-2">Yes</button>
+                    <a asp-action="Index" class="btn btn-light">Cancel</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

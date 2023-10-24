@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ydZAvdVuQq1z7oLHw5hjSrOUTNezMf78JLC19M9kqGI=",
+  "Hash": "9Wvx9h7UYv7oMriqedrnGfjUU3cai8T6BGvaia3l+fY=",
   "Source": "EduHome",
   "BasePath": "_content/EduHome",
   "Mode": "Default",
@@ -7682,6 +7682,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\post\\post3.jpg"
+    },
+    {
+      "Identity": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\img\\slider\\8dd50a6c-e3c5-42fe-b6f1-3d15f2a0ce0dblog-feature-img-1.jpg",
+      "SourceId": "EduHome",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\",
+      "BasePath": "_content/EduHome",
+      "RelativePath": "img/slider/8dd50a6c-e3c5-42fe-b6f1-3d15f2a0ce0dblog-feature-img-1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\slider\\8dd50a6c-e3c5-42fe-b6f1-3d15f2a0ce0dblog-feature-img-1.jpg"
     },
     {
       "Identity": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\img\\slider\\home.png",
