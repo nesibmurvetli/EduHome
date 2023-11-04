@@ -1,10 +1,7 @@
-﻿
-using EduHome.DAL;
-using EduHome.Models;
+﻿using EduHome.DAL;
 using EduHome.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using System.Diagnostics;
 
 namespace EduHome.Controllers
 {
