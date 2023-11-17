@@ -3,6 +3,7 @@ using EduHome.Models;
 using EduHome.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using static EduHome.Helpers.Helper;
 
 namespace EduHome.Controllers
 {
@@ -34,7 +35,7 @@ namespace EduHome.Controllers
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Register(RegisterVM registerVM)
-        {
+        { 
             if (!ModelState.IsValid) /*xanalar tam doldurulmayanda verilen xetanı eks eletdirir*/
             {
                 return View();
@@ -94,21 +95,25 @@ namespace EduHome.Controllers
             return RedirectToAction("Index", "Home");
         }
         #endregion
-        //#region Logout
-        //public async Task<IActionResult> Logout()
-        //{
-        //    if (!User.Identity.IsAuthenticated)
-        //    {
-        //        return RedirectToAction("Index", "Home");
-        //        //return NotFound();
-        //    }
-        //    await _signInManager.SignOutAsync();
-        //    return RedirectToAction("Index", "Home");
-        //}
-        //#endregion
+        #region Logout
+        public async Task<IActionResult> Logout()
+        {
+            if (!User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("Index", "Home");
+                //return NotFound();
+            }
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("Index", "Home");
+        }
+        #endregion
         //#region CreateRole
         //public async Task CreateRole()
         //{
+        //    if (!(await _roleManager.RoleExistsAsync(Roles.SuperAdmin.ToString())))
+        //    {
+        //        await _roleManager.CreateAsync(new IdentityRole { Name = Roles.SuperAdmin.ToString() });
+        //    }
         //    if (!(await _roleManager.RoleExistsAsync(Roles.Admin.ToString())))
         //    {
         //        await _roleManager.CreateAsync(new IdentityRole { Name = Roles.Admin.ToString() });

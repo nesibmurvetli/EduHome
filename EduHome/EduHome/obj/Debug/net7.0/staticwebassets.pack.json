@@ -105,6 +105,10 @@
       "PackagePath": "staticwebassets\\Admin\\images\\auth\\register-bg.jpg"
     },
     {
+      "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\faces\\1.jpg"
+    },
+    {
       "Id": "D:\\Backend\\git proyekt\\EduHome\\EduHome\\EduHome\\wwwroot\\Admin\\images\\faces\\face1.jpg",
       "PackagePath": "staticwebassets\\Admin\\images\\faces\\face1.jpg"
     },

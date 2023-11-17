@@ -286,3 +286,4 @@ D:\Backend\git proyekt\EduHome\EduHome\EduHome\bin\Debug\net7.0\Microsoft.AspNet
 D:\Backend\git proyekt\EduHome\EduHome\EduHome\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 D:\Backend\git proyekt\EduHome\EduHome\EduHome\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 D:\Backend\git proyekt\EduHome\EduHome\EduHome\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Backend\git proyekt\EduHome\EduHome\EduHome\obj\Debug\net7.0\EduHome.sourcelink.json
